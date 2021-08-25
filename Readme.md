@@ -1,0 +1,1 @@
+Comércio eletrônico desenvolvido para fins de estudos, utilizando nodejs, reactjs, redux e mongodb
